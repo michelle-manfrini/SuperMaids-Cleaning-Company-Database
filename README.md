@@ -1,7 +1,7 @@
 # SuperMaids-Cleaning-Company-Database
 Design, development and implementation of a relational database for SuperMaids Cleaning Company.
 
-Case Study
+Case Study:
 
   The SuperMaids Cleaning Company specializes in providing cleaning services for clients. Each type of client has a set of requirements. For example, The Cardboard Box Company requires cleaning services from Monday to Friday 7am until 9am and 5pm until 7pm each day, but P. Nuttall only requires cleaning services on a Wednesday from 10am until 1pm.
   
